@@ -17,9 +17,8 @@ inside minikube and thus avoiding any need for a registry to host the app's cont
 {{< alert title="Note">}}
 Aside from `Docker` and `kubectl`, Skaffold also supports a variety of other tools
 and workflows; see [Tutorials]({{<relref "/docs/tutorials">}}) for
-more information.
+more information. To learn how to generate a new project with built-in structure and features, visit [`Google Cloud Solutions Template`](https://github.com/GoogleCloudPlatform/solutions-template).
 {{</alert>}}
-
 
 In this quickstart, you will:
 
